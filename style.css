@@ -1,6 +1,9 @@
 body{
     margin: 0px;
     padding: 0px;
+    border: 1px solid #BABABA;
+    background: linear-gradient(180deg, rgba(12, 112, 242, 0.50) 19.91%, rgba(12, 112, 242, 0.00) 24.84%), #303030;
+    background-repeat: no-repeat;
 }
 
 /* Menu Principal */
@@ -46,3 +49,4 @@ body{
     cursor: pointer;
 }
 
+/* Cabeçalho e Formulario*/
