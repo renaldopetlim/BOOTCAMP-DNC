@@ -81,7 +81,6 @@ section{
         }
 
 /* Formulário */
-
 form{
     color: white;
     font-family: 'Inter', sans-serif;
@@ -138,3 +137,140 @@ form{
         color: white;
         cursor: pointer;
     }
+
+/* Footer */
+
+footer{
+    width: 100%;
+    background-color: #0C70F2;
+}
+
+.linha1{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+footer ul{
+    list-style: none;
+    margin: 0px;
+    padding: 0px;
+}
+
+footer nav{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    height: 330px;
+}
+
+footer h5{
+    text-align: center;
+    color: white;
+    font-weight: 800;
+    font-family: 'Inter', sans-serif;
+    font-size: 20px;
+    background-color: black;
+    border-radius: 10px;
+    padding: 10px 20px 10px 20px;
+    margin-bottom: 15px;
+}
+
+footer ul li{
+    text-align: center;
+    color: white;
+    font-weight: 600;
+    font-family: 'Inter', sans-serif;
+    font-size: 20px;
+    margin: 20px 0px 20px 0px;
+}
+
+footer ul li a{
+    color: white;
+    text-decoration: none;
+}
+
+footer ul li a:hover{
+    color: #CCCCCC;
+}
+
+footer .endereco{
+    font-weight: 600;
+    font-family: 'Inter', sans-serif;
+    font-size: 20px;
+    color: white;
+    width: 25%;
+    text-align: center;
+}
+
+footer .linha2{
+    height: 35px;
+    display: flex;
+    justify-content: center;
+    margin: 0px;
+    padding: 10px;
+    
+}
+
+footer .linha2 a{
+    font-family: 'Inter', sans-serif;
+    font-size: 18px;
+    font-weight: 600;
+    color: white;
+    text-decoration: none;
+    padding: 5px;
+    }
+
+footer .linha2 a:first-child{
+    border-right: 3px solid white;
+}
+
+footer .linha2 a:hover{
+    color: #CCCCCC;
+}
+
+@media only screen and (max-width: 600px){
+    #principal{
+        flex-direction: column;
+        height: auto;
+    }
+    #menu{
+        flex-direction: column;
+        width: 100%;
+        margin: 0px;
+    }
+    #menu a{
+        display: flex;
+        align-items: center;
+        height: 50px;
+    }
+    #principal button{
+        width: 100%;
+        margin: 0px;
+    }
+
+    section h1{
+        font-size: 35px;
+    }
+    section h2{
+        font-size: 20px;
+        padding-right: 3px;
+        padding-left: 3px;
+    }
+
+    form{
+        width: 90%;
+        font-size: 20px;
+    }
+    .checkbox-itens label{
+        font-size: 10px;
+    }
+
+    footer .linha1{
+        flex-direction: column;
+    }
+    footer .endereco{
+        width: 90%;
+        margin-bottom: 20px;
+    }
+}
