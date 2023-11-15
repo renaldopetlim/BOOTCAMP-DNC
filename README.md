@@ -15,4 +15,4 @@ Link: https://projeto-bootcamp-dnc-inicio.netlify.app/
 <img src="/readme/bootcamp-mobile.png" width="480px">
 
 ### Page Speed Insights:
-<img src="/readme/page-speed-insights.png" width="480px">
+<img src="/readme/page-speed-insights.png" width="640px">
