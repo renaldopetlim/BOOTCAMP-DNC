@@ -3,7 +3,9 @@
     padding: 0;
     box-sizing: border-box;
 }
+
 body{
+    font-family: "Roboto";
     margin: 0px;
     padding: 0px;
     border: 1px solid #BABABA;
@@ -26,7 +28,6 @@ body{
         font-size: 25px;
         font-weight: 600;
         color: white;
-        font-family: 'Inter', sans-serif;
         text-decoration: none;
 }
     #principal div a:hover{
@@ -46,7 +47,6 @@ body{
     border: 0px;
     height: 40px;
     width: 80px;
-    font-family: 'Inter';
     font-size: 20px;
     font-weight: 600;
     color: white;
@@ -65,7 +65,6 @@ section{
 
     header{
         color: white;
-        font-family: 'Inter', sans-serif;
     }
         header h1{
             font-size: 80px;
@@ -90,7 +89,6 @@ section{
 /* Formulário */
 form{
     color: white;
-    font-family: 'Inter', sans-serif;
     font-size: 30px;
     font-weight: 400;
     width: 750px;
@@ -176,7 +174,6 @@ footer h5{
     text-align: center;
     color: white;
     font-weight: 800;
-    font-family: 'Inter', sans-serif;
     font-size: 20px;
     background-color: black;
     border-radius: 10px;
@@ -188,7 +185,6 @@ footer ul li{
     text-align: center;
     color: white;
     font-weight: 600;
-    font-family: 'Inter', sans-serif;
     font-size: 20px;
     margin: 20px 0px 20px 0px;
 }
@@ -204,7 +200,6 @@ footer ul li a:hover{
 
 footer .endereco{
     font-weight: 600;
-    font-family: 'Inter', sans-serif;
     font-size: 20px;
     color: white;
     width: 25%;
@@ -221,7 +216,6 @@ footer .linha2{
 }
 
 footer .linha2 a{
-    font-family: 'Inter', sans-serif;
     font-size: 18px;
     font-weight: 600;
     color: white;
