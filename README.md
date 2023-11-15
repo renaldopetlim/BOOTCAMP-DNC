@@ -7,3 +7,5 @@ Tecnologias Usadas:
 • CSS
 
 Link: https://projeto-bootcamp-dnc-inicio.netlify.app/
+
+<img src="/assets/readme/bootcamp-pc.png">
