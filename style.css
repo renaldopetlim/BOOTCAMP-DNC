@@ -237,7 +237,7 @@ footer .linha2 a:hover{
     color: #CCCCCC;
 }
 
-@media only screen and (max-width: 600px){
+@media only screen and (max-width: 768px){
     #principal{
         flex-direction: column;
         height: auto;
@@ -247,14 +247,18 @@ footer .linha2 a:hover{
         flex-direction: column;
         width: 100%;
         margin: 0px;
-        padding: 10px 10px 10px 10px;
+        padding: 2px 2px 5px 10px;
     }
     #menu a{
         display: flex;
         align-items: center;
         height: 40px;
     }
+    #principal div a{
+        font-size: 18px;
+    }
     #principal button{
+        font-size: 15px;
         width: 20%;
         margin: 0px;
     }
