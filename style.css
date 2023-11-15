@@ -239,7 +239,6 @@ footer .linha2 a:hover{
 
 @media only screen and (max-width: 768px){
     #principal{
-        flex-direction: column;
         height: auto;
         padding-bottom: 15px;
     }
@@ -261,6 +260,7 @@ footer .linha2 a:hover{
         font-size: 15px;
         width: 20%;
         margin: 0px;
+        margin-right: 15px;
     }
 
     section h1{
