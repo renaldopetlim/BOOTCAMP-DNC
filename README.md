@@ -2,7 +2,7 @@
 
 Projeto desenvolvido durante o módulo iniciante do curso de Formação em Tecnologia da Escola DNC.
 
-Tecnologias Usadas:
+Tecnologias Usadas:<br>
 • HTML
 • CSS
 
