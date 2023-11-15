@@ -8,4 +8,4 @@ Tecnologias Usadas:
 
 Link: https://projeto-bootcamp-dnc-inicio.netlify.app/
 
-<img src="/readme/bootcamp-pc.png" width="240px">
+<img src="/readme/bootcamp-pc.png" width="480px">
