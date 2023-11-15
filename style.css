@@ -1,3 +1,8 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
 body{
     margin: 0px;
     padding: 0px;
@@ -30,7 +35,7 @@ body{
 
 #menu{
     display: flex;
-    width: 40%;
+    width: 60%;
     justify-content: space-around;
     margin-left: 5%;
 }
@@ -54,8 +59,8 @@ section{
     display: flex;
     flex-direction: column;
     align-items: center;
-    margin-top: 100px;
-    margin-bottom: 100px;
+    margin-top: 60px;
+    margin-bottom: 60px;
 }
 
     header{
@@ -65,14 +70,16 @@ section{
         header h1{
             font-size: 80px;
             font-weight: 800;
-            margin-bottom: 20px;
+            margin-bottom: 40px;
             text-align: center;
         }
         header h2{
-            font-size: 40px;
+            font-size: 30px;
             font-weight: 700;
             text-align: center;
-            margin-bottom: 100px;
+            margin-bottom: 40px;
+            padding-right: 20%;
+            padding-left: 20%;
         }
         header .invert{
             background-color: black;
@@ -98,7 +105,7 @@ form{
 
     form input{
         border-radius: 10px;
-        height: 30px;
+        height: 40px;
         border: 0px;
         font-size: 20px;
         padding: 8px;
@@ -141,7 +148,8 @@ form{
 /* Footer */
 
 footer{
-    width: 100%;
+    padding-top: 25px;
+    padding-bottom: 15px;
     background-color: #0C70F2;
 }
 
@@ -233,19 +241,21 @@ footer .linha2 a:hover{
     #principal{
         flex-direction: column;
         height: auto;
+        padding-bottom: 15px;
     }
     #menu{
         flex-direction: column;
         width: 100%;
         margin: 0px;
+        padding: 10px 10px 10px 10px;
     }
     #menu a{
         display: flex;
         align-items: center;
-        height: 50px;
+        height: 40px;
     }
     #principal button{
-        width: 100%;
+        width: 20%;
         margin: 0px;
     }
 
@@ -254,8 +264,8 @@ footer .linha2 a:hover{
     }
     section h2{
         font-size: 20px;
-        padding-right: 3px;
-        padding-left: 3px;
+        padding-right: 25px;
+        padding-left: 25px;
     }
 
     form{
@@ -266,6 +276,10 @@ footer .linha2 a:hover{
         font-size: 10px;
     }
 
+    footer{
+        padding-top: 15px;
+        padding-bottom: 15px;
+    }
     footer .linha1{
         flex-direction: column;
     }
