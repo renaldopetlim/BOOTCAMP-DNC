@@ -2,19 +2,19 @@
 Este repositório contém o código-fonte de uma página web para o Bootcamp DNC, um evento exclusivo para alunos da DNC que desejam acelerar suas carreiras em tecnologia.
 
 ## Sobre o Projeto:
-A página web inclui: <br>
+<b>A página web inclui: <b><br>
 • Um menu de navegação com links para informações sobre o evento. <br>
 • Um formulário de inscrição para os participantes. <br>
 • Seções com detalhes sobre a DNC e seus cursos. <br>
 • Um rodapé com informações institucionais e políticas da empresa.
 
 ## Estrutura do Código:
-O código HTML é organizado da seguinte forma: <br>
-• <nav>: Barra de navegação com links para páginas externas. <br>
-• <main>: <br>
+<b>O código HTML é organizado da seguinte forma: <b><br>
+• nav: Barra de navegação com links para páginas externas. <br>
+• main: <br>
     • Um <article> com informações sobre o Bootcamp. <br>
     • Um <form> para coletar dados dos interessados. <br>
-• <footer>: <br>
+• Footer: <br>
     • Links institucionais e informações sobre a DNC. <br>
     • Endereço e CNPJ da empresa. <br>
 
@@ -28,9 +28,9 @@ Caso tenha dúvidas ou sugestões, entre em contato através de renaldopetlim@gm
 Link: https://projeto-bootcamp-dnc-inicio.netlify.app/
 
 ### Responsividade Desktop:
-<img src="/readme/bootcamp-pc.png" width="480px">
+<img src="/readme/bootcamp-pc.png" width="720px">
 
 ### Responsividade Mobile:
-<img src="/readme/bootcamp-mobile.jpg" width="720px"> <br>
-<img src="/readme/bootcamp-mobile-2.jpg" width="720px">
+<img src="/readme/bootcamp-mobile.jpg" width="480px"> <br>
+<img src="/readme/bootcamp-mobile-2.jpg" width="480px">
 
