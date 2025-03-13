@@ -12,8 +12,8 @@ Este repositório contém o código-fonte de uma página web para o Bootcamp DNC
 <b>O código HTML é organizado da seguinte forma: <b><br>
 • nav: Barra de navegação com links para páginas externas. <br>
 • main: <br>
-    • Um <article> com informações sobre o Bootcamp. <br>
-    • Um <form> para coletar dados dos interessados. <br>
+    • Um article com informações sobre o Bootcamp. <br>
+    • Um form para coletar dados dos interessados. <br>
 • Footer: <br>
     • Links institucionais e informações sobre a DNC. <br>
     • Endereço e CNPJ da empresa. <br>
