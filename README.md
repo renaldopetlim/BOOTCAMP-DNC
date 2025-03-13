@@ -32,6 +32,6 @@ Link: https://projeto-bootcamp-dnc-inicio.netlify.app/
 <img src="/readme/bootcamp-pc.png" width="720px">
 
 ### Responsividade Mobile:
-<img src="/readme/bootcamp-mobile-1.jpg" width="480px"> <br>
+<img src="/readme/bootcamp-mobile.jpg" width="480px"> <br>
 <img src="/readme/bootcamp-mobile-2.jpg" width="480px">
 
