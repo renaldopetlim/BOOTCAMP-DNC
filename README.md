@@ -12,11 +12,11 @@ A página web inclui: <br>
 O código HTML é organizado da seguinte forma: <br>
 • nav: Barra de navegação com links para páginas externas. <br>
 • main: <br>
-    • Um article com informações sobre o Bootcamp. <br>
-    • Um form para coletar dados dos interessados. <br>
+<blockquote>• Um article com informações sobre o Bootcamp. <br>
+<blockquote>• Um form para coletar dados dos interessados. <br>
 • Footer: <br>
-    • Links institucionais e informações sobre a DNC. <br>
-    • Endereço e CNPJ da empresa. <br>
+<blockquote>• Links institucionais e informações sobre a DNC. <br>
+<blockquote>• Endereço e CNPJ da empresa. <br>
 
 ## Tecnologias Usadas: 
 <b>• HTML5:</b> Estruturação da página. <br>
